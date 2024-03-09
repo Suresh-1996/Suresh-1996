@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @I'm Suresh,Nishshankage Suresh Madhushanka.I am a undergraduate who are studying in final year at SEUSL
+- 👋 Hi, I’m @I'm Suresh,Nishshankage Suresh Madhushanka.I am fresh graduated  at SEUSL
 - 👀 I’m interested in Software Engineerig 
-- 🌱 I’m currently learning  MERN Stack
-- 💞️ I’m looking to join good company as intern software engineer
+- 🌱 I’m currently working on Virtusa
+- 💞️ I’m looking to join good company
 - 📫 Reach me on This LinkedIn - 
 https://www.linkedin.com/in/suresh-madhusanka
 <!---
