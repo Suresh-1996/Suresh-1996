@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I'm Suresh,Nishshankage Suresh Madhushanka.I am fresh graduated  at SEUSL
 - 👀 I’m interested in Software Engineerig 
-- 🌱 I’m currently working on Virtusa
+- 🌱 1 + year experiance at Virtusa
 - 💞️ I’m looking to join good company
 - 📫 Reach me on This LinkedIn - 
 https://www.linkedin.com/in/suresh-madhusanka
